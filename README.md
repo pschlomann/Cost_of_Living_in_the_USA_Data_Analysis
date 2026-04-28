@@ -5,5 +5,5 @@ This respository contains work analyzing the cost_of_living_us dataset. This dat
 This analysis consists of cleaning the dataset, engineering new variables, and drawing out many graphs to analyze relationships between the variables, including a coorelation matrix, regression plots, chloropleth graphs, bubble plots, etc.
 
 The Results folder contains the presentation and report of the findings, containing graphs and conclusions made from the data.
-The Data folder contains a sample of data from the dataset.
+The Data folder contains a random sample of 10% of the dataset used.
 The Src folder contains the source Python code used to analyze the dataset and create the graphs.
